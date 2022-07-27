@@ -1,0 +1,7 @@
+Player_1 20
+Player_2 10
+Player_3 40
+Player_4 30
+Player_5 20
+Player_6 40
+Player_7 0
